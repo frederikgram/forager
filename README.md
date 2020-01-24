@@ -1,0 +1,1 @@
+![alt text](resources/showcase_gif.gif)
